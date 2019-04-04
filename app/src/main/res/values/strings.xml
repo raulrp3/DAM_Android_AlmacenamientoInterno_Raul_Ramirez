@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Almacenamiento_Interno</string>
+    <string name="places">Lugares visitados</string>
+    <string name="save">Save</string>
+</resources>
